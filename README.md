@@ -1,9 +1,9 @@
+[![Verify Canon](https://github.com/abrahamkolo/reliance-verify/actions/workflows/verify.yml/badge.svg)](https://github.com/abrahamkolo/reliance-verify/actions/workflows/verify.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # reliance-verify
 
 Independent verification tool for [Reliance Infrastructure Canon](https://github.com/abrahamkolo/reliance-infrastructure-canon) documents.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Verify Canon](https://github.com/abrahamkolo/reliance-verify/actions/workflows/verify.yml/badge.svg)](https://github.com/abrahamkolo/reliance-verify/actions/workflows/verify.yml)
 
 ## Quick Start
 
