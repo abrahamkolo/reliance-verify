@@ -53,6 +53,11 @@ VERDICT: AUTHENTIC
 
 Institutional-grade infrastructure requires independent verification. This tool allows any third party to verify the integrity and authenticity of the Reliance Infrastructure Canon without trusting the source repository's own scripts.
 
+## Related
+
+- [Reliance Infrastructure Canon](https://github.com/abrahamkolo/reliance-infrastructure-canon) -- the 39-document canonical stack
+- [Governance Templates](https://github.com/abrahamkolo/governance-templates) -- reusable document templates
+
 ## License
 
 MIT -- use freely for verification purposes.
